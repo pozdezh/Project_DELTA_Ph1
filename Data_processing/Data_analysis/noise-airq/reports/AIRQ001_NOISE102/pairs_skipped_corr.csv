@@ -1,0 +1,9 @@
+air_var,noise_var,reason
+TEMP,frame_period_s,insufficient N or constant var
+HUM,frame_period_s,insufficient N or constant var
+CO2,frame_period_s,insufficient N or constant var
+PRES,frame_period_s,insufficient N or constant var
+LLUM,frame_period_s,insufficient N or constant var
+PM1,frame_period_s,insufficient N or constant var
+PM25,frame_period_s,insufficient N or constant var
+PM10,frame_period_s,insufficient N or constant var
