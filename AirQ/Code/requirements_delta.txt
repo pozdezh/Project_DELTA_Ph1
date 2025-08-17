@@ -1,0 +1,11 @@
+bme280
+enviroplus
+ltr559
+numpy
+pms5003
+scd30_i2c
+smbus
+smbus2
+pandas
+psutil
+Requests
