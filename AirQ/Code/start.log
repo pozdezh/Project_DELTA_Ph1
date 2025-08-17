@@ -1,0 +1,12 @@
+Checking status of processes
+Sensor manager process count: 0
+Sensor manager is down... Let's start it
+PMS.py process count: 0
+Sensor PMS.py is down... Let's start it
+SCD30.py process count: 0
+Sensor SCD30.py is down... Let's start it
+DHT22.py process count: 0
+Sensor DHT22.py is down... Let's start it
+enviro.py process count: 0
+Sensor enviro.py is down... Let's start it
+Process check complete.
