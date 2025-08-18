@@ -9,6 +9,6 @@ https://doi.org/10.1007/978-3-031-30333-3_45
 
 Current work:
 
-E. Batista, C. Shoot Vayevoda, A. Solanas, and A. Martínez-Ballesté.
+E. Batista, C. Shoot, A. Solanas, and A. Martínez-Ballesté.
 "Self-Organising and Autonomous IoT-based Monitoring Units for Smart Environments."
 Smart Technologies Research Group, Universitat Rovira i Virgili.
