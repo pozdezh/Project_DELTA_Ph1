@@ -1,0 +1,5 @@
+-Raspberry Pi 4 Model B
+-Pimoroni Enviro + Air Quality
+-Plantower PMS5003
+-DHT22
+-Sensirion SCD30
