@@ -1,5 +1,23 @@
+***COMPONENTS***
+
 -Raspberry Pi 4 Model B
 -Pimoroni Enviro + Air Quality
 -Plantower PMS5003
 -DHT22
 -Sensirion SCD30
+-microSD
+-two-piece PLA 3D printed housing
+(jumpers, duct tape, double-sided gel adhesive tape, soldering equipment)
+
+***PINOUT***
+
+==DHT22==
+Positive -> 5V
+Negative -> GND
+OUT -> GPIO_4
+
+==SCD30==
+VDI -> 3V3
+GND -> GND
+TX/SCL -> SCL
+RX/SDA -> SDA
