@@ -32,4 +32,4 @@ SD_CS -> GPIO_12
 LIT -> GPIO_13
 
 ==Button==
-3V(HI) -> Button -> GPIO_6 (W/ Internal pulldown resistor)
+3V(HI) -> Button -> GPIO_6 (w/ Internal pulldown resistor)
