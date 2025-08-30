@@ -1,0 +1,96 @@
+{
+  "pair": "AIRQ002_NOISE102",
+  "window": {
+    "start_utc": null,
+    "end_utc": null,
+    "timezone": "Europe/Madrid"
+  },
+  "minutes_after_quality": {
+    "ALL": 3345,
+    "OCCUPIED": 2794
+  },
+  "mean_coverage": {
+    "ALL": 0.9998357892036438,
+    "OCCUPIED": 0.9998034238815308
+  },
+  "neg_checks": {
+    "ALL": {
+      "CO2": {
+        "max_abs_r": 0.09982494122150752,
+        "lag_min": -4,
+        "noise_var": "voice_rate_time"
+      },
+      "dCO2_mean3": {
+        "max_abs_r": 0.16494793785601494,
+        "lag_min": -4,
+        "noise_var": "voice_rate_time"
+      },
+      "PM25": {
+        "max_abs_r": 0.050271706114795464,
+        "lag_min": -10,
+        "noise_var": "voice_rate_time"
+      },
+      "PM10": {
+        "max_abs_r": 0.04699673064233752,
+        "lag_min": -10,
+        "noise_var": "voice_rate_time"
+      },
+      "TEMP": {
+        "max_abs_r": -0.18131845774960695,
+        "lag_min": -1,
+        "noise_var": "voice_rate_time"
+      },
+      "HUM": {
+        "max_abs_r": 0.03816951600985461,
+        "lag_min": -4,
+        "noise_var": "voice_rate_time"
+      }
+    },
+    "OCCUPIED": {
+      "CO2": {
+        "max_abs_r": 0.11819122854438034,
+        "lag_min": -1,
+        "noise_var": "voice_rate_time"
+      },
+      "dCO2_mean3": {
+        "max_abs_r": 0.18899304105074885,
+        "lag_min": -5,
+        "noise_var": "voice_rate_time"
+      },
+      "PM25": {
+        "max_abs_r": 0.03644534529029405,
+        "lag_min": -10,
+        "noise_var": "voice_rate_time"
+      },
+      "PM10": {
+        "max_abs_r": 0.034846677089054284,
+        "lag_min": -10,
+        "noise_var": "voice_rate_time"
+      },
+      "TEMP": {
+        "max_abs_r": -0.18974942150442126,
+        "lag_min": -2,
+        "noise_var": "voice_rate_time"
+      },
+      "HUM": {
+        "max_abs_r": 0.03906869357972089,
+        "lag_min": -8,
+        "noise_var": "voice_rate_time"
+      }
+    }
+  },
+  "scans_written": [
+    "lag_scans_ALL_CO2__voice_rate_time.csv",
+    "lag_scans_ALL_dCO2_mean3__voice_rate_time.csv",
+    "lag_scans_ALL_PM25__voice_rate_time.csv",
+    "lag_scans_ALL_PM10__voice_rate_time.csv",
+    "lag_scans_ALL_TEMP__voice_rate_time.csv",
+    "lag_scans_ALL_HUM__voice_rate_time.csv",
+    "lag_scans_OCCUPIED_CO2__voice_rate_time.csv",
+    "lag_scans_OCCUPIED_dCO2_mean3__voice_rate_time.csv",
+    "lag_scans_OCCUPIED_PM25__voice_rate_time.csv",
+    "lag_scans_OCCUPIED_PM10__voice_rate_time.csv",
+    "lag_scans_OCCUPIED_TEMP__voice_rate_time.csv",
+    "lag_scans_OCCUPIED_HUM__voice_rate_time.csv"
+  ]
+}
