@@ -2,8 +2,9 @@
 #include <Arduino.h>
 
 // === Configuration ===
-#define WIFI_SSID "REDACTED_WIFI_SSID"
-#define WIFI_PASS "REDACTED_WIFI_PASSWORD"
+// Real credentials live in wifi_credentials.h (gitignored, not committed).
+// Copy wifi_credentials.h.example to wifi_credentials.h and fill in your network.
+#include "wifi_credentials.h"
 
 #define GMT_OFFSET_SEC 3600        // Adjust for your timezone
 #define DAYLIGHT_OFFSET_SEC 3600   // Adjust if DST applies
